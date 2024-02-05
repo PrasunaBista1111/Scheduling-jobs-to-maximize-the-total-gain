@@ -1,13 +1,4 @@
-"""
-WRIGHT STATE UNIVERSITY
-Department of Computer Science and Engineering
-Assignment 2 (Due: October 19) (7 pts)
 
-1- Elham Ghiasi          ghiasi.2@wright.edu
-2- Arsha Jung Thapa      thapa.61@wright.edu
-3- Prasuna Bista         bista.10@wright.edu
-
-"""
 
 """ Pseudocode:
 
